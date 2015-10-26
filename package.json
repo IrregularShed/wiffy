@@ -1,0 +1,17 @@
+{
+  "name": "wiffy",
+  "version": "0.0.1",
+  "description": "An attempt at writing a tool in Node.js to convert files between mono images and .WIF files for Rebadger",
+  "main": "index.js",
+  "repository": "https://github.com/IrregularShed/wiffy.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wif",
+    "epaper",
+    "rebadger"
+  ],
+  "author": "Steve Anderson",
+  "license": "MIT"
+}
