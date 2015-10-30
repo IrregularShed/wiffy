@@ -10,8 +10,13 @@
   "keywords": [
     "wif",
     "epaper",
-    "rebadger"
+    "badger"
   ],
   "author": "Steve Anderson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "floyd-steinberg": "^1.0.4",
+    "jimp": "^0.2.9",
+    "q": "^1.4.1"
+  }
 }
